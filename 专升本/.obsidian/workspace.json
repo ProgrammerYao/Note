@@ -1,0 +1,437 @@
+{
+  "main": {
+    "id": "e03541ac4085d30e",
+    "type": "split",
+    "children": [
+      {
+        "id": "29a17cff8709b179",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7068da910a4ec51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学/数学.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数学"
+            }
+          },
+          {
+            "id": "ae39b129174ff4ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学/ob公式块.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ob公式块"
+            }
+          },
+          {
+            "id": "c0d5bc33d36f3f10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "专升本计算机/数据结构/数据结构.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数据结构"
+            }
+          },
+          {
+            "id": "e714c556a042df19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "专升本计算机/C语言/C语言.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C语言"
+            }
+          },
+          {
+            "id": "b299001e372de801",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "专升本计算机/C语言/做题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "做题"
+            }
+          },
+          {
+            "id": "6e6faa82f3dfc208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语/试卷.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "试卷"
+            }
+          },
+          {
+            "id": "44f300a673366fca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语/英语.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "英语"
+            }
+          },
+          {
+            "id": "c65fb8f8066d05f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语/做题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "做题"
+            }
+          },
+          {
+            "id": "43ed40f03b196092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语/试卷.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "试卷"
+            }
+          },
+          {
+            "id": "9be874cd5eb6013c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语/记忆.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "记忆"
+            }
+          },
+          {
+            "id": "9f005063752a14d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "政治/毛泽东思想和中国特色社会主义体系概论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "毛泽东思想和中国特色社会主义体系概论"
+            }
+          },
+          {
+            "id": "a05cb1ef5fd50976",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "政治/小笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "小笔记"
+            }
+          },
+          {
+            "id": "5091d31c5c15de0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "政治/大题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "大题"
+            }
+          },
+          {
+            "id": "379f845c8abcb516",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "政治/大题新.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "大题新"
+            }
+          },
+          {
+            "id": "1244c36cc4c4ff6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "政治/题型及分值及时间分配.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "题型及分值及时间分配"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39ba6176eee64b69",
+    "type": "split",
+    "children": [
+      {
+        "id": "651cf845a2aeb588",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3aaa0e20503386e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "93184e384a3eef45",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#大题",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f1294f5c1dfbb312",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "500d4b41aa3a3e71",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "2f0f8b8e0de99499",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "right": {
+    "id": "83e01522936d3a96",
+    "type": "split",
+    "children": [
+      {
+        "id": "821ebd00cd5a2fa6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a475acc3148ab0ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "6a3546fa968a79f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "3ea1e670c1d20b71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "专升本计算机/C语言/C语言.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "C语言 的大纲"
+            }
+          },
+          {
+            "id": "902f4bc82414be68",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "e714c556a042df19",
+  "lastOpenFiles": [
+    "数学/数学.md",
+    "政治/浓缩笔记.md",
+    "政治/毛泽东思想和中国特色社会主义体系概论.md",
+    "政治/未命名.md",
+    "政治/小笔记.md",
+    "英语/记忆.md",
+    "专升本计算机/C语言/C语言.md",
+    "专升本计算机/C语言/做题.md",
+    "数学/attachment/Pasted image 20250728190830.png",
+    "政治/习近平新时代中国特色社会主义思想概论.md",
+    "数学/attachment/Pasted image 20250725210856.png",
+    "数学/attachment/Pasted image 20250725205355.png",
+    "数学/attachment/Pasted image 20250725123031.png",
+    "数学/attachment/Pasted image 20250725123010.png",
+    "数学/attachment/Pasted image 20250725111953.png",
+    "政治/题型及分值及时间分配.md",
+    "政治/大题.md",
+    "政治/大题新.md",
+    "英语/试卷.md",
+    "英语/做题.md",
+    "数学/attachment/Pasted image 20250723121456.png",
+    "专升本计算机/C语言/题型及分值.md",
+    "专升本计算机/C语言/题目.md",
+    "英语/英语.md",
+    "数学/attachment/Pasted image 20250721112511.png",
+    "数学/attachment/Pasted image 20250721112459.png",
+    "英语 - 副本/attachment/Pasted image 20241111001725.png",
+    "英语 - 副本/记忆.md",
+    "英语 - 副本/试卷.md",
+    "英语 - 副本/英语.md",
+    "英语 - 副本/构词法.md",
+    "英语 - 副本/做题.md",
+    "英语 - 副本/其它.md",
+    "英语 - 副本/作文.md",
+    "英语 - 副本/attachment",
+    "英语 - 副本",
+    "数学 - 副本/attachment",
+    "数学 - 副本/补充知识.md",
+    "数学 - 副本/数学.md",
+    "数学 - 副本",
+    "专升本计算机 - 副本/C语言/attachment",
+    "专升本计算机 - 副本/数据结构",
+    "专升本计算机 - 副本/C语言",
+    "专升本计算机 - 副本",
+    "政治 - 副本/attachment",
+    "政治 - 副本",
+    "政治/大纲/总大纲.canvas",
+    "政治/未命名.canvas"
+  ]
+}

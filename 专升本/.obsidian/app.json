@@ -1,0 +1,17 @@
+{
+  "trashOption": "local",
+  "attachmentFolderPath": "./attachment",
+  "newFileLocation": "root",
+  "newFileFolderPath": "基础设置",
+  "strictLineBreaks": true,
+  "autoPairMarkdown": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

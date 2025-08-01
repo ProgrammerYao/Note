@@ -1,0 +1,4 @@
+body {
+  --table-cell-vertical-alignment: middle;
+}
+.table-cell-wrapper {height: unset !important;}
